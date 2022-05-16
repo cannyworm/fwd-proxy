@@ -1,0 +1,6 @@
+
+# dependency
+node_modules
+
+# ignore build file
+dist/**/*
